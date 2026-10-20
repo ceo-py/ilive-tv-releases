@@ -42,7 +42,7 @@ is incidental and does not imply any endorsement, affiliation or authorisation.
 ## Versions
 
 Releases are published under tags of the form `vMAJOR.MINOR` — for example
-`v1.00`. The tag is what the in-app updater compares against, so a build's
+`v1.02`. The tag is what the in-app updater compares against, so a build's
 `versionName` in `app/build.gradle.kts` must match the tag it is published as.
 
 A build's `versionCode` is enforced by Android on install and must always be
