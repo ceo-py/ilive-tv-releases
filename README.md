@@ -2,7 +2,7 @@
 
 iLive TV is an IPTV client for Android TV, phones and tablets, written in Kotlin with Jetpack Compose and using Media3 1.8.1 for playback. It runs on low-end set-top boxes as well as on modern phones and tablets. This repository is its public distribution channel: it holds this README and the signed APK attached to each GitHub Release. The app's source code is not public.
 
-**Current version: 1.03**
+**Current version: 1.05**
 
 ## No streams, no channels, no content — this app hosts nothing
 
